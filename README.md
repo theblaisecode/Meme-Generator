@@ -6,8 +6,7 @@ Live Website - https://theblaisecode.github.io/Meme-Generator
 <br/>
 
 ## 🔶 Result
-
-
+![meme generator](https://github.com/theblaisecode/Meme-Generator/assets/89015653/99349024-03d8-47ea-aac9-98e8426b61d7)
 
 <br/>
 
